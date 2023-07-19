@@ -1,0 +1,3 @@
+[submodule "SuihiraForge/vendor/spdlog"]
+	path = SuihiraForge/vendor/spdlog
+	url = https://github.com/gabime/spdlog
